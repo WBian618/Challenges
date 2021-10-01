@@ -41,7 +41,7 @@ function ranToRpsInt() {
 }
 
 
-function numberToChoice() {
+function numberToChoice(number) {
     return ['rock', 'paper', 'scissors'][number];
 }
 
